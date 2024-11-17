@@ -1,12 +1,15 @@
 # Vizuet Cruz Fernando Ivan
-
+![[image_cover.jpg]]
 **Bioinformatic, Data Analyst and Web Design and Development.**
 # Hello 🌎!
 
 
-
-# Contact
-
 # Projects
 
 # Skills
+
+# Contact
+
+> [!Contact] ####  
+>
+
