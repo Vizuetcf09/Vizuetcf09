@@ -5,7 +5,7 @@
 - **Bioinformatic.**
 - **Data Analyst.**
 - **Web Design.**
-- **Front-end Development.**
+- **Web Development.**
 
 ## Skills
 
